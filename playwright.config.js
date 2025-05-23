@@ -9,7 +9,7 @@ module.exports = defineConfig({
     ['list']
   ],
   use: {
-    headless: false,
+    headless: true,
     viewport: { width: 1280, height: 720 },
     screenshot: 'only-on-failure',
     trace: 'on-first-retry',
