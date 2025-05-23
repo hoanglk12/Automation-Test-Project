@@ -16,21 +16,21 @@ This project implements automated testing for the Facebook.com website using Pla
 
 ### Installation Steps
 1. Clone the repository:
-git clone https://github.com/hoanglk12/Automation-Test-Project.git
-cd Automation-Test-Project
+- git clone https://github.com/hoanglk12/Automation-Test-Project.git
+- cd Automation-Test-Project
 
 
 3. Install dependencies:
-npm install
-npx playwright install
+- npm install
+- npx playwright install
 
 
 4. Run tests:
-npx playwright test
+- npx playwright test
 
 
 5. View the report:
-npx playwright show-report
+- npx playwright show-report
 
 
 ## CI/CD Pipeline
