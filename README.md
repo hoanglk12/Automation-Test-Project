@@ -60,8 +60,9 @@ The project includes both positive and negative test cases:
 - Checking account creation option
 
 ### Negative Tests:
+- Verifying that a non-existent element is not found -> Btn 'Sign Up' NOT shown when login
 - Checking error message when logging in with an empty email
-- Verifying that a non-existent element is not found
+
 
 ## Report Explanation
 
