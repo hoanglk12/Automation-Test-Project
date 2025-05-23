@@ -23,7 +23,7 @@ test.describe('Facebook Homepage Tests', () => {
   // Negative Test Cases
      test('should not find non-existent element', async ({ page }) => {
     await page.goto('https://www.facebook.com/');
-    await expect(page.locator('button[name="websubmit"]')).not.toBeVisible(); //cannot find create account button
+    await expect(page.locator('button[name="websubmit"]')).not.toBeVisible(); //cannot find Sign Up button
   });
 
   test('should show error for empty email login attempt', async ({ page }) => {

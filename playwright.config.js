@@ -10,6 +10,7 @@ module.exports = defineConfig({
   ],
   use: {
     headless: true,
+    slowMo: 50,
     viewport: { width: 1280, height: 720 },
     screenshot: 'only-on-failure',
     trace: 'on-first-retry',
