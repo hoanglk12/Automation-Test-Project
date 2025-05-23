@@ -27,7 +27,7 @@ test.describe('Facebook Homepage Tests', () => {
   });
 
   test('should show error for empty email login attempt', async ({ page }) => {
-    await page.goto('https://www.facebook.com/');
+    await page.refresh();
     await page.locator('#pass').fill('123456');
     await page.locator('//button[@name="login"]').click();
     await page.waitForLoadState('networkidle');
