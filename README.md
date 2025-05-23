@@ -16,7 +16,7 @@ This project implements automated testing for the Facebook.com website using Pla
 
 ### Installation Steps
 1. Clone the repository:
-git clone https://github.com/[username]/Automation-Test-Project.git
+git clone https://github.com/hoanglk12/Automation-Test-Project.git
 cd Automation-Test-Project
 
 
@@ -73,4 +73,4 @@ The HTML report generated after running tests includes:
 
 ## Contact
 
-If you have any questions, please contact via email: [your-email@example.com]
+If you have any questions, please contact via email: hoanglk12@gmail.com
