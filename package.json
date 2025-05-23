@@ -1,0 +1,23 @@
+{
+  "name": "automation-test-project",
+  "version": "1.0.0",
+  "description": "This project implements automated testing for the Facebook.com website using Playwright and GitHub Actions CI/CD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoanglk12/Automation-Test-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoanglk12/Automation-Test-Project/issues"
+  },
+  "homepage": "https://github.com/hoanglk12/Automation-Test-Project#readme",
+  "dependencies": {
+    "@playwright/test": "^1.52.0"
+  }
+}
