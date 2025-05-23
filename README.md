@@ -20,16 +20,16 @@ git clone https://github.com/hoanglk12/Automation-Test-Project.git
 cd Automation-Test-Project
 
 
-2. Install dependencies:
+3. Install dependencies:
 npm install
 npx playwright install
 
 
-3. Run tests:
+4. Run tests:
 npx playwright test
 
 
-4. View the report:
+5. View the report:
 npx playwright show-report
 
 
