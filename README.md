@@ -61,7 +61,7 @@ The project includes both positive and negative test cases:
 
 ### Negative Tests:
 - Verifying that a non-existent element is not found -> Btn 'Sign Up' NOT shown when login
-- Checking error message when logging in with an empty email
+- Checking error message when logging in with an empty email and empty password
 
 
 ## Report Explanation
